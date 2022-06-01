@@ -1,0 +1,12 @@
+#ignore
+/hardware/.Xil/
+/hardware/rover_system
+/software/.metadata
+/software/.Xil
+
+
+*.jou
+*.log
+*.str
+*.log
+*.analytics
